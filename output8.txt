@@ -1,0 +1,37 @@
+The title of the album is: exclusive
+The first name of the artist is: Chris
+The last name of the artist is: Brown
+The genre of the song is: pop
+The record label is: Zomba_Group_of_Companies
+The year the song relased is: November_6_2007
+
+The title of the album is: The_Carter_III
+The first name of the artist is: Lil
+The last name of the artist is: Wayne
+The genre of the song is: hip-hop
+The record label is: Cash_Money_Records
+The year the song relased is: March_13_2008
+
+The title of the album is: Umbrella
+The first name of the artist is: Rihanna
+The last name of the artist is: Fenty
+The genre of the song is: pop
+The record label is: Roc_Nation_records
+The year the song relased is: March_29_2007
+
+The title of the album is: Hell
+The first name of the artist is: Derek
+The last name of the artist is: Rose
+The genre of the song is: Metal
+The record label is: Heathens_records
+The year the song relased is: January_17_2005
+
+The title of the album is: Heaven
+The first name of the artist is: Chris
+The last name of the artist is: Brown
+The genre of the song is: Opera
+The record label is: Angels_recods
+The year the song relased is: June_16_1997
+
+Rose found in position 3
+Fenty found in position 2
